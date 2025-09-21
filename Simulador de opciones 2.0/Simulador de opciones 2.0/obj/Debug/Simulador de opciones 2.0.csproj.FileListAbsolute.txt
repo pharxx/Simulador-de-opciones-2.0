@@ -1,0 +1,8 @@
+C:\Users\alons\source\repos\Simulador de opciones 2.0\Simulador de opciones 2.0\bin\Debug\Simulador de opciones 2.0.exe.config
+C:\Users\alons\source\repos\Simulador de opciones 2.0\Simulador de opciones 2.0\bin\Debug\Simulador de opciones 2.0.exe
+C:\Users\alons\source\repos\Simulador de opciones 2.0\Simulador de opciones 2.0\bin\Debug\Simulador de opciones 2.0.pdb
+C:\Users\alons\source\repos\Simulador de opciones 2.0\Simulador de opciones 2.0\obj\Debug\Simulador de opciones 2.0.csproj.AssemblyReference.cache
+C:\Users\alons\source\repos\Simulador de opciones 2.0\Simulador de opciones 2.0\obj\Debug\Simulador de opciones 2.0.csproj.CoreCompileInputs.cache
+C:\Users\alons\source\repos\Simulador de opciones 2.0\Simulador de opciones 2.0\obj\Debug\Simulador de opciones 2.0.exe
+C:\Users\alons\source\repos\Simulador de opciones 2.0\Simulador de opciones 2.0\obj\Debug\Simulador de opciones 2.0.pdb
+C:\Users\alons\source\repos\Simulador de opciones 2.0\Simulador de opciones 2.0\obj\Debug\Simulador de opciones 2.0.exe.config
